@@ -20,10 +20,10 @@ This is a simple Bank Account Management System developed to demonstrate the key
    cd bank-account-management-system
    ```
 3. Compile the Java files:
-```bash
-javac *.java
-```
+   ```bash
+   javac *.java
+   ```
 4. Run the Application
-```bash
-java BankAccountManagementSystem
-```
+   ```bash
+   java BankAccountManagementSystem
+   ```
