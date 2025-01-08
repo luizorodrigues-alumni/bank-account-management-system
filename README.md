@@ -14,5 +14,16 @@ This is a simple Bank Account Management System developed to demonstrate the key
 1. Clone the repository:
    ```bash
    git clone https://github.com/luizorodrigues-alumni/bank-account-management-system.git
+   ```
+2. Navigate to the source directory
+   ```bash
    cd bank-account-management-system
    ```
+3. Compile the Java files:
+```bash
+javac *.java
+```
+4. Run the Application
+```bash
+java BankAccountManagementSystem
+```
